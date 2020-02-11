@@ -1,2 +1,2 @@
-# wine-reviews-predicts
-Lets try to do some predictive modeling of our wine reviews dataset
+# heart-disease-predicts
+Lets try to predict whether a patient has heart disase
