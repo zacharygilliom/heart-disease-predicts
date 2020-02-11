@@ -7,7 +7,8 @@ Started out by plotting some of the variables in our data to get a look at the d
 
 Along with the distribution we want to see if there are any missing values in our data.
 
-![variable_distributions](https://user-images.githubusercontent.com/23482152/74297928-504c0500-4d16-11ea-9b9d-8b454591e0a9.png)
+
+![NA_values](https://user-images.githubusercontent.com/23482152/74298527-10861d00-4d18-11ea-8fbc-c51913978087.png)
 
 Luckily we have a clean dataset that is ready for analysis.
 
