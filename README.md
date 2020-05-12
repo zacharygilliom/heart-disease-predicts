@@ -26,5 +26,3 @@ Once we have our scores, it could always be better, but in the meantime prior to
 Lastly we have our matrix that shows how our predicted values compares to our actual values.
 
 ![actual_vs_predicted](https://user-images.githubusercontent.com/23482152/74298318-5abace80-4d17-11ea-814f-1f4223e729e7.png)
-
-This was a fun little machine learning project.  Some ways to expand on the project would be to use some other classification techniques.  But our data is pretty limited, so our options for which classifier to use is limited also.
